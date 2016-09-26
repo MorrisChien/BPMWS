@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="BPM_Service.asmx.cs" Class="BPMWS.BPM_Service" %>
